@@ -2,4 +2,3 @@ TODO:
  - function description in include/list.h and include/lexer.h
  - parser
  - input from command-line args
- - add list operations (memory leak!!!)
